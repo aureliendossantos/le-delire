@@ -23,3 +23,11 @@ Un commit est un patch, un assemblage de changements. Créez un commit en lui do
 ![](https://i.imgur.com/pVCMXuG.png)
 
 Le bouton *Actualiser* en haut à droite va se transformer en bouton *Envoyer*. D'ailleurs, il se transforme aussi en bouton *Télécharger* quand d'autres personnes envoient des commits !
+
+# 𝓻𝓮𝓲𝓷𝓲𝓽𝓲𝓪𝓵𝓲𝓼𝓮𝓻 𝓵𝓮 𝓭𝓮𝓵𝓲𝓻𝓮
+
+Vous avez modifé des fichiers, mais préfèreriez recommencer à zéro ? Sur Github Desktop, dans la liste des fichiers changés, faites clic droit puis *Discard all changes*.
+
+![](https://i.imgur.com/sPccU4A.png)
+
+Et voilà, tout est redevenu comme avant que vous n'y touchiez !
